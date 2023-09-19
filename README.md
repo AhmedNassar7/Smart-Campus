@@ -1,2 +1,3 @@
 # College-Database
-A Database System that manages all attributes in college that has a database for each student, doctor, course, and department with a GUI that applies the main concepts of OOP, Database, and UI design.
+Created a software system for managing operations like inserting, deleting, updating, and searching at university entities like students, instructors, courses, and departments.
+Using Java with OOP and SQL for the Database, and Java Swing with UI for GUI.

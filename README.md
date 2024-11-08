@@ -1,6 +1,6 @@
 # University Management System
 
-A comprehensive Java-based database system for managing university operations, including functionalities for inserting, deleting, searching, and sorting data within entities like students, instructors, courses, and departments.
+A comprehensive Java-based university management system designed for managing university operations, including functionalities for inserting, deleting, searching, and sorting data within entities like students, instructors, courses, and departments.
 
 This project leverages **Object-Oriented Programming (OOP)** principles, **SQL** for database management, and **Java Swing** for the graphical user interface. It was developed using **NetBeans**.
 
